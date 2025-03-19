@@ -1,0 +1,5 @@
+.footer{background-color: rgb(30, 30, 30);
+    /*width: 100vw;*/
+    min-height: fit-content;
+    padding: 10px
+}

@@ -1,0 +1,10 @@
+.howTo{
+    padding: 10;
+
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.howTo li{
+    margin: 20px;
+}
